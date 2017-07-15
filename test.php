@@ -1,3 +1,3 @@
 <?php
-echo "first file to use git hub by krishna";
+echo "first file to use git hub";
 ?>
